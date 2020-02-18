@@ -1,4 +1,4 @@
-# I-am-Single
+# I am Single
 
 Introductory iOS project. The goal is to create a simple pet app similar to the well known I am Rich application that was released on the App Store a few years ago. 
 
