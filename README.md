@@ -14,7 +14,7 @@ Before you begin, you should already have the Xcode downloaded and set up correc
 
 1. Download the I-am-single project source. You can do this either by forking and cloning the repository (recommended if you plan on pushing changes) or by downloading it as a ZIP file and extracting it. OR
 
-```$ git clone https://github.com/fossasia/susi_iOS.git```
+```$ git clone https://github.com/aguisset/I-am-single.git```
 
 2. Navigate to the unzipped folder and open How I Feel in Valentines Day.xcodeproj from the folder.
 
@@ -28,12 +28,12 @@ Here is an example of the end results:
 
 ## Built With
 
-* [Xcode](https://developer.apple.com/xcode/) - The web framework used
+* [Xcode](https://developer.apple.com/xcode/) - The IDE used to build iOS application.
 
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+I use [git](https://git-scm.com/) for versioning on my machine
 
 ## Authors
 
